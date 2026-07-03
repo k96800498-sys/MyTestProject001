@@ -1,0 +1,8 @@
+﻿monster_id,name,zone,max_hp,contact_damage,move_speed,chase_range,headbutt_damage_multiplier,stomp_damage_multiplier,exp_reward,gold_reward,spawn_count,is_boss
+easy_slime,초록 슬라임,easy,20,1,1.2,4.0,1.0,1.5,15,5,8,false
+easy_mushroom,숲 버섯,easy,28,1,1.0,3.5,1.0,1.5,20,7,5,false
+normal_boar,돌진 멧돼지,normal,55,2,1.8,6.0,0.9,1.3,45,15,6,false
+normal_wolf,회색 늑대,normal,70,2,2.2,7.0,0.8,1.2,55,18,4,false
+hard_golem,바위 골렘,hard,130,3,1.1,6.0,0.7,1.0,95,35,4,false
+hard_imp,붉은 임프,hard,95,4,2.4,8.0,0.8,1.1,110,40,5,false
+boss_ogre,보스 오우거,boss,650,6,1.5,12.0,0.6,0.9,350,150,1,true
